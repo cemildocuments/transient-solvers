@@ -1,0 +1,9 @@
+{
+  "device": "mps",
+  "trajectories_per_method_case": 32768,
+  "total_trajectories": 1474560,
+  "sample_times": 80,
+  "float32_vs_float64_peak_max_abs_error": 1.971091270203118e-07,
+  "seconds": 2.283782375001465,
+  "seed": 6502026
+}

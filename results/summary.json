@@ -1,0 +1,145 @@
+{
+  "main": {
+    "cases": 324,
+    "speed_median": 1.384626161107462,
+    "speed_ci": [
+      1.3134038801112582,
+      1.4437757717928368
+    ],
+    "speed_min": 1.0489588733729118,
+    "speed_max": 3.2679861836774156,
+    "retention_median": 0.9999999635150236,
+    "spectral_amplifying": 133,
+    "jacobi_amplifying": 176,
+    "spectral_gain_max": 1.6639632644857227,
+    "jacobi_gain_max": 3.1214160774450503,
+    "contractive_gain_max": 1.0,
+    "alpha_min": 0.0002082629798125479
+  },
+  "stress": {
+    "cases": 54,
+    "speed_median": 2.9501357392976533,
+    "speed_ci": [
+      2.8332981342526242,
+      3.308415150653542
+    ],
+    "speed_min": 2.030562220684895,
+    "speed_max": 4.7744319224938065,
+    "retention_median": 0.7141577511156132,
+    "spectral_amplifying": 54,
+    "jacobi_amplifying": 54,
+    "spectral_gain_max": 5.343754299511427,
+    "jacobi_gain_max": 7.14279523924562,
+    "contractive_gain_max": 1.0,
+    "alpha_min": 5.193534716815419e-06
+  },
+  "scale": {
+    "cases": 12,
+    "speed_median": 1.3520030618122905,
+    "speed_ci": [
+      1.1052302104657659,
+      1.967394877858739
+    ],
+    "speed_min": 1.0427159322381916,
+    "speed_max": 2.5145336759885595,
+    "retention_median": 0.9827739800087637,
+    "spectral_amplifying": 6,
+    "jacobi_amplifying": 6,
+    "spectral_gain_max": 1.5737695606176574,
+    "jacobi_gain_max": 2.0420017002316535,
+    "contractive_gain_max": 1.0,
+    "alpha_min": 0.00018882119668197213
+  },
+  "strata": [
+    {
+      "family": "covariance",
+      "spread": 0.0,
+      "cases": 36,
+      "speed": 1.101035488043864,
+      "retention": 0.9999999999030301,
+      "spectral_gain_max": 1.0,
+      "jacobi_gain_max": 1.0
+    },
+    {
+      "family": "covariance",
+      "spread": 0.5,
+      "cases": 36,
+      "speed": 1.5322337733596676,
+      "retention": 0.9999999951469756,
+      "spectral_gain_max": 1.0417796433505255,
+      "jacobi_gain_max": 1.0882882731667485
+    },
+    {
+      "family": "covariance",
+      "spread": 1.0,
+      "cases": 36,
+      "speed": 2.5316220904469335,
+      "retention": 0.9322221635800582,
+      "spectral_gain_max": 1.6639632644857227,
+      "jacobi_gain_max": 2.2276179906641116
+    },
+    {
+      "family": "gram",
+      "spread": 0.0,
+      "cases": 36,
+      "speed": 1.2441413210630052,
+      "retention": 0.9999999950403348,
+      "spectral_gain_max": 1.0,
+      "jacobi_gain_max": 1.0
+    },
+    {
+      "family": "gram",
+      "spread": 0.5,
+      "cases": 36,
+      "speed": 1.4205018796225688,
+      "retention": 0.9999999936297546,
+      "spectral_gain_max": 1.019799890767428,
+      "jacobi_gain_max": 1.0520153728914832
+    },
+    {
+      "family": "gram",
+      "spread": 1.0,
+      "cases": 36,
+      "speed": 2.1349976994372484,
+      "retention": 0.9515812066501155,
+      "spectral_gain_max": 1.520919688300272,
+      "jacobi_gain_max": 2.1143460685572264
+    },
+    {
+      "family": "network",
+      "spread": 0.0,
+      "cases": 36,
+      "speed": 1.1207368777320421,
+      "retention": 0.9999999994278982,
+      "spectral_gain_max": 1.0,
+      "jacobi_gain_max": 1.0
+    },
+    {
+      "family": "network",
+      "spread": 0.5,
+      "cases": 36,
+      "speed": 1.201310788782437,
+      "retention": 0.9998269761238312,
+      "spectral_gain_max": 1.023185378743253,
+      "jacobi_gain_max": 1.308269389333379
+    },
+    {
+      "family": "network",
+      "spread": 1.0,
+      "cases": 36,
+      "speed": 1.6034808585962463,
+      "retention": 0.9209570539955394,
+      "spectral_gain_max": 1.2517120827937325,
+      "jacobi_gain_max": 3.1214160774450503
+    }
+  ],
+  "optimization": {
+    "median_seconds": 0.024470875003316905,
+    "max_seconds": 272.910469041999,
+    "status_counts": {
+      "optimal": 341,
+      "optimal_inaccurate": 49
+    },
+    "repaired": 0
+  }
+}

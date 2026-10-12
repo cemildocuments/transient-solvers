@@ -1,0 +1,18 @@
+[
+  {
+    "case": "scale_covariance_n64_s1_seed3000",
+    "method": "spectral",
+    "stored_rate": 0.009382570395608228,
+    "upper_bound": 0.009394724781514619,
+    "relative_gap": 0.0012954217654557176,
+    "status": "optimal_inaccurate"
+  },
+  {
+    "case": "scale_covariance_n64_s1_seed3000",
+    "method": "contractive",
+    "stored_rate": 0.008062810632534428,
+    "upper_bound": 0.008067310648595994,
+    "relative_gap": 0.0005581200237307904,
+    "status": "optimal_inaccurate"
+  }
+]

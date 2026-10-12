@@ -1,0 +1,35 @@
+[
+  {
+    "method": "loaded",
+    "max_abs_error_v": 8.35361705608939e-06,
+    "peak_v": 0.971463167,
+    "initial_error_norm_v": 0.09999999999999999,
+    "rail_v": 1.0,
+    "node": 0,
+    "omega_ref_rad_s": 62831853.071795866,
+    "case": "main_gram_n16_s1_seed1000",
+    "points": 8016
+  },
+  {
+    "method": "spectral",
+    "max_abs_error_v": 1.169485905450074e-06,
+    "peak_v": 1.00198601,
+    "initial_error_norm_v": 0.09999999999999999,
+    "rail_v": 1.0,
+    "node": 0,
+    "omega_ref_rad_s": 62831853.071795866,
+    "case": "main_gram_n16_s1_seed1000",
+    "points": 8011
+  },
+  {
+    "method": "contractive",
+    "max_abs_error_v": 4.550001826419958e-06,
+    "peak_v": 0.982717627,
+    "initial_error_norm_v": 0.09999999999999999,
+    "rail_v": 1.0,
+    "node": 0,
+    "omega_ref_rad_s": 62831853.071795866,
+    "case": "main_gram_n16_s1_seed1000",
+    "points": 8011
+  }
+]

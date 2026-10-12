@@ -1,0 +1,208 @@
+{
+  "main": {
+    "cases": 324,
+    "active_retention": 0.9466476882804717,
+    "active_speed": 1.8404050550629305,
+    "methods": {
+      "loaded": {
+        "median_speed_vs_this": 1.384626161107462,
+        "faster_count": 324,
+        "output_noise_ratio": 1.0211474968066403,
+        "input_noise_ratio": 1.2539784184057163
+      },
+      "uniform": {
+        "median_speed_vs_this": 1.7643175090656478,
+        "faster_count": 324,
+        "output_noise_ratio": 0.9341536302400971,
+        "input_noise_ratio": 1.5002657465566767
+      },
+      "jacobi": {
+        "median_speed_vs_this": 1.1739306857227212,
+        "faster_count": 322,
+        "output_noise_ratio": 0.9278211982599445,
+        "input_noise_ratio": 0.9564008625799042
+      },
+      "row_norm": {
+        "median_speed_vs_this": 1.1762949360285102,
+        "faster_count": 322,
+        "output_noise_ratio": 1.0163050295631764,
+        "input_noise_ratio": 0.9994138857155974
+      },
+      "blend": {
+        "median_speed_vs_this": 1.1521753409466,
+        "faster_count": 324,
+        "output_noise_ratio": 1.0361939989106892,
+        "input_noise_ratio": 1.0088012670427342
+      },
+      "spectral": {
+        "median_speed_vs_this": 0.9999984765526925,
+        "faster_count": 44,
+        "output_noise_ratio": 0.9999780888338626,
+        "input_noise_ratio": 0.9999913422563511
+      },
+      "contractive": {
+        "median_speed_vs_this": 1.0,
+        "faster_count": 0,
+        "output_noise_ratio": 1.0,
+        "input_noise_ratio": 1.0
+      }
+    }
+  },
+  "stress": {
+    "cases": 54,
+    "active_retention": 0.7141577511156132,
+    "active_speed": 2.9501357392976533,
+    "methods": {
+      "loaded": {
+        "median_speed_vs_this": 2.9501357392976533,
+        "faster_count": 54,
+        "output_noise_ratio": 0.6268788243553816,
+        "input_noise_ratio": 2.4867354260704926
+      },
+      "uniform": {
+        "median_speed_vs_this": 3.83822117633553,
+        "faster_count": 54,
+        "output_noise_ratio": 0.5071072026771599,
+        "input_noise_ratio": 3.131297127115661
+      },
+      "jacobi": {
+        "median_speed_vs_this": 1.2735745499764413,
+        "faster_count": 42,
+        "output_noise_ratio": 0.13297466165711588,
+        "input_noise_ratio": 0.702254292349241
+      },
+      "row_norm": {
+        "median_speed_vs_this": 1.1923206007562401,
+        "faster_count": 40,
+        "output_noise_ratio": 0.5950706281880098,
+        "input_noise_ratio": 0.852089833532733
+      },
+      "blend": {
+        "median_speed_vs_this": 1.3103310687961858,
+        "faster_count": 54,
+        "output_noise_ratio": 0.975085917274725,
+        "input_noise_ratio": 1.2385274754133873
+      },
+      "spectral": {
+        "median_speed_vs_this": 0.7801625577685286,
+        "faster_count": 1,
+        "output_noise_ratio": 0.4777879901741979,
+        "input_noise_ratio": 0.6995823996515196
+      },
+      "contractive": {
+        "median_speed_vs_this": 1.0,
+        "faster_count": 0,
+        "output_noise_ratio": 1.0,
+        "input_noise_ratio": 1.0
+      }
+    }
+  },
+  "scale": {
+    "cases": 12,
+    "active_retention": 0.9070458740858522,
+    "active_speed": 1.967394877858739,
+    "methods": {
+      "loaded": {
+        "median_speed_vs_this": 1.3520030618122905,
+        "faster_count": 12,
+        "output_noise_ratio": 1.0017760811543523,
+        "input_noise_ratio": 1.0341948247935386
+      },
+      "uniform": {
+        "median_speed_vs_this": 1.6501010914987606,
+        "faster_count": 12,
+        "output_noise_ratio": 0.8863067741189096,
+        "input_noise_ratio": 1.3847412844842955
+      },
+      "jacobi": {
+        "median_speed_vs_this": 1.1345265460874776,
+        "faster_count": 11,
+        "output_noise_ratio": 0.8357016753657975,
+        "input_noise_ratio": 0.9432122006185756
+      },
+      "row_norm": {
+        "median_speed_vs_this": 1.117932271029438,
+        "faster_count": 11,
+        "output_noise_ratio": 1.00786865681946,
+        "input_noise_ratio": 0.9884777533737643
+      },
+      "blend": {
+        "median_speed_vs_this": 1.153728795151179,
+        "faster_count": 12,
+        "output_noise_ratio": 1.0262942320359394,
+        "input_noise_ratio": 1.0087434705047693
+      },
+      "spectral": {
+        "median_speed_vs_this": 0.9898666177666984,
+        "faster_count": 0,
+        "output_noise_ratio": 0.9745474113544808,
+        "input_noise_ratio": 0.974663420182633
+      },
+      "contractive": {
+        "median_speed_vs_this": 1.0,
+        "faster_count": 0,
+        "output_noise_ratio": 1.0,
+        "input_noise_ratio": 1.0
+      }
+    }
+  },
+  "quantization": [
+    {
+      "level": 4.0,
+      "passes": 73,
+      "count": 108,
+      "mean_retention": 0.7670847513535597,
+      "min_retention": 0.6762657126286834
+    },
+    {
+      "level": 6.0,
+      "passes": 107,
+      "count": 108,
+      "mean_retention": 0.9437428672654554,
+      "min_retention": 0.9150649075412568
+    },
+    {
+      "level": 8.0,
+      "passes": 108,
+      "count": 108,
+      "mean_retention": 0.9867551840477342,
+      "min_retention": 0.9808720991163012
+    },
+    {
+      "level": 10.0,
+      "passes": 108,
+      "count": 108,
+      "mean_retention": 0.9968000345370238,
+      "min_retention": 0.9954763663643844
+    },
+    {
+      "level": 12.0,
+      "passes": 108,
+      "count": 108,
+      "mean_retention": 0.9992076275744654,
+      "min_retention": 0.9988039591770028
+    }
+  ],
+  "optimization_by_n": [
+    {
+      "n": 8,
+      "median": 0.004945708496961743,
+      "max": 0.007749999997031409
+    },
+    {
+      "n": 16,
+      "median": 0.024075396002444904,
+      "max": 0.04222337499959394
+    },
+    {
+      "n": 32,
+      "median": 2.9697061459992256,
+      "max": 10.612703749997308
+    },
+    {
+      "n": 64,
+      "median": 161.66019256250001,
+      "max": 272.910469041999
+    }
+  ]
+}

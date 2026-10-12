@@ -1,0 +1,18 @@
+[
+  {
+    "case": "main_covariance_n8_s1_seed1011",
+    "method": "spectral",
+    "stored_rate": 0.012067566976832929,
+    "upper_bound": 0.01206758928987638,
+    "relative_gap": 1.8490092903444832e-06,
+    "status": "optimal"
+  },
+  {
+    "case": "main_covariance_n8_s1_seed1011",
+    "method": "contractive",
+    "stored_rate": 0.012034359634003951,
+    "upper_bound": 0.012034410267722355,
+    "relative_gap": 4.2074293891136705e-06,
+    "status": "optimal"
+  }
+]

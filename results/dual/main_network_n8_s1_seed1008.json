@@ -1,0 +1,18 @@
+[
+  {
+    "case": "main_network_n8_s1_seed1008",
+    "method": "spectral",
+    "stored_rate": 0.003609710434311795,
+    "upper_bound": 0.0036097408368732167,
+    "relative_gap": 8.422437748123457e-06,
+    "status": "optimal"
+  },
+  {
+    "case": "main_network_n8_s1_seed1008",
+    "method": "contractive",
+    "stored_rate": 0.0031832492535775374,
+    "upper_bound": 0.0031833012835861896,
+    "relative_gap": 1.6344937046275376e-05,
+    "status": "optimal"
+  }
+]

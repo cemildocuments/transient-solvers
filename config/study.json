@@ -1,0 +1,10 @@
+{
+  "protocol": "Independent seeds fixed after pilot exploration; all listed cases retained.",
+  "main": {"sizes": [8,16,32], "spreads": [0,0.5,1], "families": ["gram","covariance","network"], "seeds": [1000,1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011]},
+  "stress": {"sizes": [8,16,32], "spreads": [2], "families": ["gram","covariance","network"], "seeds": [2000,2001,2002,2003,2004,2005]},
+  "scale": {"sizes": [64], "spreads": [0,1], "families": ["gram","covariance","network"], "seeds": [3000,3001]},
+  "methods": ["loaded","uniform","jacobi","row_norm","blend","spectral","contractive"],
+  "bandwidth_min": 0.02, "bandwidth_max": 8, "contraction_fraction": 0.1,
+  "normalized_bandwidth_budget": "matrix dimension", "settling_tolerance": 0.001,
+  "master_seed": 6502026
+}

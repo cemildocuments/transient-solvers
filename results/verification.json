@@ -1,0 +1,16 @@
+{
+  "cases_checked": 390,
+  "independent_cases": 12,
+  "checks_passed": true,
+  "max_errors": {
+    "propagator": 2.318699833881343e-13,
+    "lyapunov": 1.5169246961004158e-12,
+    "gain_grid": 2.6645352591003757e-15,
+    "settling_grid": 9.08162434143378e-14,
+    "budget": 7.53483675453026e-09
+  },
+  "two_channel_trials": 2000,
+  "two_channel_disagreements": 0,
+  "reoptimized_relative_rate_error": 0.0,
+  "minimum_certificate_to_rate": 0.09999999658392233
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "case": "main_gram_n16_s1_seed1007",
+    "method": "spectral",
+    "stored_rate": 0.012394607357787642,
+    "upper_bound": 0.012394685047444386,
+    "relative_gap": 6.268020801503127e-06,
+    "status": "optimal"
+  },
+  {
+    "case": "main_gram_n16_s1_seed1007",
+    "method": "contractive",
+    "stored_rate": 0.012319480640805285,
+    "upper_bound": 0.012319516371194808,
+    "relative_gap": 2.9003162198559806e-06,
+    "status": "optimal"
+  }
+]

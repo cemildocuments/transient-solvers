@@ -1,0 +1,12 @@
+[
+  {
+    "name": "bcsstk01",
+    "url": "https://sparse.tamu.edu/MM/HB/bcsstk01.tar.gz",
+    "sha256": "fbc7d883fbb1048ae7e98b12fd5b7c49fa68e0ec070b60f45047db44f63ba984"
+  },
+  {
+    "name": "bcsstk02",
+    "url": "https://sparse.tamu.edu/MM/HB/bcsstk02.tar.gz",
+    "sha256": "ee388126002b33fdb084fbe32f4ffec3ab11e01f2c83e69ce695fba5626abed0"
+  }
+]

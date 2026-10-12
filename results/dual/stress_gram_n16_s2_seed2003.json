@@ -1,0 +1,18 @@
+[
+  {
+    "case": "stress_gram_n16_s2_seed2003",
+    "method": "spectral",
+    "stored_rate": 0.00032833675041098203,
+    "upper_bound": 0.00032835583636381014,
+    "relative_gap": 5.8129200597223374e-05,
+    "status": "optimal"
+  },
+  {
+    "case": "stress_gram_n16_s2_seed2003",
+    "method": "contractive",
+    "stored_rate": 0.0002691411819753715,
+    "upper_bound": 0.00026924570277281297,
+    "relative_gap": 0.0003883493290559592,
+    "status": "optimal"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "case": "scale_network_n64_s0_seed3000",
+    "method": "spectral",
+    "stored_rate": 0.016388126917026423,
+    "upper_bound": 0.01638826892810095,
+    "relative_gap": 8.665485399683703e-06,
+    "status": "optimal"
+  },
+  {
+    "case": "scale_network_n64_s0_seed3000",
+    "method": "contractive",
+    "stored_rate": 0.01638812686089153,
+    "upper_bound": 0.0163882002113115,
+    "relative_gap": 4.475826956396034e-06,
+    "status": "optimal"
+  }
+]

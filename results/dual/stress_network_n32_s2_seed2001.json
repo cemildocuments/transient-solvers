@@ -1,0 +1,18 @@
+[
+  {
+    "case": "stress_network_n32_s2_seed2001",
+    "method": "spectral",
+    "stored_rate": 7.972216898144927e-05,
+    "upper_bound": 7.978556532814577e-05,
+    "relative_gap": 0.0007952160297000077,
+    "status": "optimal"
+  },
+  {
+    "case": "stress_network_n32_s2_seed2001",
+    "method": "contractive",
+    "stored_rate": 6.005310449525869e-05,
+    "upper_bound": 6.0108165821200434e-05,
+    "relative_gap": 0.000916877260626725,
+    "status": "optimal"
+  }
+]

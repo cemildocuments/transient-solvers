@@ -1,0 +1,18 @@
+[
+  {
+    "case": "stress_covariance_n16_s2_seed2004",
+    "method": "spectral",
+    "stored_rate": 0.00024805114325636825,
+    "upper_bound": 0.00024805962667086333,
+    "relative_gap": 3.420026363798456e-05,
+    "status": "optimal"
+  },
+  {
+    "case": "stress_covariance_n16_s2_seed2004",
+    "method": "contractive",
+    "stored_rate": 0.00014757839097959648,
+    "upper_bound": 0.00014759887289290597,
+    "relative_gap": 0.00013878666906141923,
+    "status": "optimal"
+  }
+]

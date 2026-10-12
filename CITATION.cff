@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this software and its associated study when reusing the experiments."
+title: "Taming transients in analogue solvers: reproducible experiments"
+type: software
+version: 1.0.0
+date-released: 2026-10-11
+authors:
+  - name: "Research software contributors"
+license: MIT
+keywords:
+  - analogue computing
+  - linear solvers
+  - transient amplification
+  - contraction
+  - bandwidth allocation
+abstract: >-
+  Seeded experiments, matrix generators, numerical certificates and behavioural
+  circuit checks for bandwidth-constrained analogue residual solvers.
